@@ -1,0 +1,6 @@
+# Explicitly include only what we need for the build
+*
+!Dockerfile
+!agent.py
+!requirements.txt
+!.env
