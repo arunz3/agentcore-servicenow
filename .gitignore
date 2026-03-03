@@ -157,3 +157,4 @@ build_logs_full.txt
 invoke_output.txt
 build_debug.txt
 help_cmd.txt
+Dockerfile
